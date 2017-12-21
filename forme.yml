@@ -14,6 +14,7 @@ version: 1
 name: gbg-getting-started
 author: Daniel Knight
 email: daniel.knight@gmail.com
+tag: 1.0
 #
 # User entry prompts.  These will trigger the user to be prompted for input.  These will be available in your
 # mustache templates as 'user.?'.
